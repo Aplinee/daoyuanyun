@@ -1,0 +1,16 @@
+
+> daoyuanyun-website@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[SUCCESS] Docusaurus website is running at: http://localhost:3000/
+ℹ Compiling Client
+
+> daoyuanyun-website@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[SUCCESS] Docusaurus website is running at: http://localhost:3000/
+ℹ Compiling Client
+✔ Client: Compiled successfully in 10.80s
+client (webpack 5.91.0) compiled successfully
