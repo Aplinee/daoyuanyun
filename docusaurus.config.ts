@@ -25,8 +25,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh',
+    locales: ['zh'],
   },
 
   presets: [
@@ -49,7 +49,7 @@ const config: Config = {
       title: '帮助文档',
       logo: {
         alt: '道源云',
-        src: 'img/logo.png',
+        src: 'img/logo2.png',
       },
       items: [
         {to: '/blog', label: '更新日志', position: 'left'},
